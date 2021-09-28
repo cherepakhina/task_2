@@ -47,4 +47,5 @@ int main() {
     }
 
     printf("\n%d", modulus);
+    return 0;
 }
